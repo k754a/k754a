@@ -2,30 +2,29 @@
 
 **`Unity Python and C++ Programmer!`**
 
-I create games and apps on unity and C++
-<a>I live in canada!</a>
+I create games and apps on Unity and C++
+<a>I live in Canada!</a>
 
-
-   <p align="left">
-      <a href="https://github.com/K754a?tab=followers">
-         <img alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/K754a?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/K754a?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/K754a?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+    <a href="https://github.com/K754a?tab=followers">
+        <img class="icon" alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/K754a?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/K754a?tab=repositories&sort=stargazers">
+        <img class="icon" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/K754a?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+</p>
 
 ---
 
-### 🧰 Languages 
+### 🧰 Languages
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img class="icon" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img class="icon" align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img class="icon" align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img class="icon" align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img class="icon" align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" />
 
 <br />
-
 
 ### 📊 Stats
 
@@ -33,6 +32,25 @@ I create games and apps on unity and C++
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=K754a&theme=gruvbox&border_radius=4.5) -->
 
-
 [website]: https://k754A.Github.io
 [youtube]: https://youtube.com/k754a
+
+<style>
+.icon {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.icon:active {
+    animation: spin 0.5s linear;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+</style>
