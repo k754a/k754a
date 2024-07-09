@@ -30,27 +30,6 @@ I create games and apps on Unity and C++
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=K754a&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=K754a&theme=gruvbox&border_radius=4.5) -->
 
-[website]: https://k754A.Github.io
-[youtube]: https://youtube.com/k754a
 
-<style>
-.icon {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
 
-.icon:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.icon:active {
-    animation: spin 0.5s linear;
-}
-
-@keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-}
-</style>
