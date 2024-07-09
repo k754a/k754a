@@ -5,10 +5,7 @@
 I create games and apps on Unity and C++
 <a>I live in Canada!</a>
 
-<!-- Animated Hacker Rain -->
-<div align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" width="100%">
-</div>
+
 
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
@@ -34,9 +31,9 @@ I create games and apps on Unity and C++
 
 <br />
 
-<a href="https://github.com/K754a?tab=repositories&sort=stargazers">
-        <https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-    </a>
+
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+ 
 
 ### 📊 Stats
 
