@@ -5,6 +5,11 @@
 I create games and apps on Unity and C++
 <a>I live in Canada!</a>
 
+<!-- Animated Hacker Rain -->
+<div align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" width="100%">
+</div>
+
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
         <img class="icon" alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/K754a?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -29,7 +34,3 @@ I create games and apps on Unity and C++
 ### 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=K754a&show_icons=true&theme=gruvbox)
-
-
-
-
