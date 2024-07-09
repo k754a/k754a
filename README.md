@@ -35,13 +35,9 @@ I create games and apps on Unity and C++
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=K754a&show_icons=true&theme=gruvbox)
 
----
 
-### 📈 3D Commit Graph
 
-My commit activity:
 
-![My 3D Commit Graph](https://activity-graph.herokuapp.com/graph?username=K754a&theme=react-dark&hide_border=true)
 
 
 
