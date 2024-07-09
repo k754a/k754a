@@ -1,7 +1,4 @@
-<!-- Animated Hacker Rain (placed at the top) -->
-<div style="position: relative;">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" style="position: absolute; width: 100%; z-index: -1;">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=K754a)](https://git.io/typing-svg)
 
 # **K754a**
 
