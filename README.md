@@ -1,14 +1,14 @@
+<!-- Animated Hacker Rain (placed at the top) -->
+<div style="position: relative;">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" style="position: absolute; width: 100%; z-index: -1;">
+</div>
+
 # **K754a**
 
 **`Unity Python and C++ Programmer!`**
 
 I create games and apps on Unity and C++
 <a>I live in Canada!</a>
-
-<!-- Animated Hacker Rain -->
-<div align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" width="100%">
-</div>
 
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
