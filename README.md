@@ -1,15 +1,14 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+a+self-taught+game+developer!" alt="Typing SVG"/>
-  </a>
-</p>
-
 # **K754a**
 
 **`Unity Python and C++ Programmer!`**
 
 I create games and apps on Unity and C++
 <a>I live in Canada!</a>
+
+<!-- Animated Hacker Rain -->
+<div align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker Rain" width="100%">
+</div>
 
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
@@ -20,7 +19,10 @@ I create games and apps on Unity and C++
     </a>
 </p>
 
----
+<a href="https://github.com/K754a?tab=repositories&sort=stargazers">
+        <https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+    </a>
+
 
 ### 🧰 Languages
 
@@ -31,6 +33,10 @@ I create games and apps on Unity and C++
 <img class="icon" align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" />
 
 <br />
+
+<a href="https://github.com/K754a?tab=repositories&sort=stargazers">
+        <https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+    </a>
 
 ### 📊 Stats
 
