@@ -35,6 +35,8 @@ I create games and apps on Unity and C++
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=K754a&show_icons=true&theme=gruvbox)
 
+![My Other Github Stats](https://github-profile-trophy.vercel.app/?username=k754a)
+
 
 
 
