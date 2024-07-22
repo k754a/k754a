@@ -6,7 +6,7 @@ I create games and apps on Unity and C++
 <a>I live in Canada!</a>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=K754a&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB&border=EB5454&stroke=EBEBEB&ring=EBA539&fire=EB7026&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=FFFFFF&excludeDaysLabel=EBEBEB&background=45%2C0D1117%2C10151D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=K754a&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB&border=EB5454&stroke=EBEBEB00&ring=EBA539&fire=EB7026&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=FFFFFF&excludeDaysLabel=EBEBEB&background=0D1117)](https://git.io/streak-stats)
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
         <img alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/K754a?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
