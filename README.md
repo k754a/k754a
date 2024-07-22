@@ -3,7 +3,7 @@
 # **K754a**
 
 <p align="center">
-  **`Unity Python and C++ Programmer!`**
+  <big>Unity Python and C++ Programmer!</big>
 </p>
 
 <p align="center">
