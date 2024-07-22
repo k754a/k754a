@@ -19,7 +19,8 @@ I create games and apps on Unity and C++
   <img align="left" src="https://streak-stats.demolab.com?user=K754a&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB&border=EB5454&stroke=EBEBEB00&ring=EBA539&fire=EB7026&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=FFFFFF&excludeDaysLabel=EBEBEB&background=0D111700" alt="GitHub Streak" />
 </a>
 
-![My GitHub Stats - Custom Colors](https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true)
+[![My GitHub Stats - Custom Colors](https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true)](https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true
+)
 
 
 
