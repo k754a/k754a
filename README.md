@@ -37,11 +37,7 @@ I create games and apps on Unity and C++
 
   <br><br>
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact&bg_color=00000000&text_color=ffffff&border_color=00000000&ring_color=FFA500" alt="Top Languages" style="max-width: 100%;" />
-    </a>
-  </p>
+ 
 
 </div>
 
