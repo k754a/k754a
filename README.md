@@ -1,31 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .center-text {
-            text-align: center;
-        }
-        .large-text {
-            font-size: 36px; /* Adjust the size as needed */
-            font-weight: bold;
-        }
-        .medium-text {
-            font-size: 24px; /* Adjust the size as needed */
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+<p align="center">
+  <strong><big>K754a</big></strong>
+</p>
 
-<p class="center-text large-text">K754a</p>
+<p align="center">
+  <strong><big>Unity Python and C++ Programmer!</big></strong>
+</p>
 
-<p class="center-text medium-text">Unity Python and C++ Programmer!</p>
+<p align="center">
+  <strong><big>I create games and apps on Unity and C++</big></strong><br>
+  <strong><big>I live in Canada!</big></strong>
+</p>
 
-<p class="center-text medium-text">I create games and apps on Unity and C++<br>
-I live in Canada!</p>
-
+<br>
 <p align="center">
   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
