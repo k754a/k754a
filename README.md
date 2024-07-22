@@ -8,6 +8,7 @@
   <big><a>I create games and apps on Unity and C++</a></big><br>
   <big><a>I live in Canada!</a></big>
 </p>
+<br>
 <p align="center">
   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
