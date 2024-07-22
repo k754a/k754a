@@ -19,11 +19,8 @@
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
   <img alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" />
-  <img alt="Unity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Unity_3D_icon.svg/1024px-Unity_3D_icon.svg.png" />
-  <img alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" />
+   <img alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </p>
-
-
 <br><br>
 
 ---
