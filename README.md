@@ -6,7 +6,7 @@ I create games and apps on Unity and C++
 <a>I live in Canada!</a>
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=k754a&theme=dark&date_format=j%20M%5B%20Y%5D&background=45%2C1DFFD2%2CEB5454&dates=000000&border=000000&stroke=391414&currStreakLabel=FF9335)](https://git.io/streak-stats)
 <p align="left">
     <a href="https://github.com/K754a?tab=followers">
         <img alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/K754a?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -35,7 +35,6 @@ I create games and apps on Unity and C++
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=K754a&show_icons=true&theme=gruvbox)
 
-![My Other Github Stats](https://github-profile-trophy.vercel.app/?username=k754a)
 
 
 
