@@ -39,11 +39,11 @@
     </p>
   </a>
 
-  <br><br>
+  <br>
 
   <hr style="border: 1px solid #EBEBEB; width: 50%; margin: 0 auto;"/>
 
-  <br><br>
+  <br>
 
   <p align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true">
@@ -52,6 +52,6 @@
 
 </div>
 
-<br><br>
+<br>
 
 ---
