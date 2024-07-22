@@ -1,7 +1,6 @@
 
 <p align="center">
-  <span style="font-size:2em;"><strong><big>Hi! Im A Unity Python and C++ Programmer!</big></strong></span>
-
+  <span style="font-size:2em;"><strong><big>Hi! I'm a Unity, Python, and C++ Programmer!</big></strong></span>
 </p>
 
 <p align="center">
