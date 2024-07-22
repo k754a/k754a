@@ -20,7 +20,9 @@ I create games and apps on Unity and C++
   <img align="left" src="https://streak-stats.demolab.com?user=K754a&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB&border=EB5454&stroke=EBEBEB00&ring=EBA539&fire=EB7026&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=FFFFFF&excludeDaysLabel=EBEBEB&background=0D111700" alt="GitHub Streak" />
 </a>
 
-<br><br>
+<br>
+
+<br>
 
 
 ---
