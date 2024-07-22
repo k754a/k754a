@@ -37,9 +37,9 @@ I create games and apps on Unity and C++
   </a>
  </p>
 <p align="center">
-  [![My top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
 
 </div>
 
