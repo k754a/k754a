@@ -29,6 +29,9 @@
    <img alt="K754a-Edit" width="42px" height="40px" style="margin: 0 10px; vertical-align: 80px;" src="https://github.com/k754a/k754a/raw/main/pixil-frame-0 (85).png"/>
 
 
+![](https://komarev.com/ghpvc/?username=k754a&color=ffffff&style=flat-square)
+
+
 
 </p>
 
