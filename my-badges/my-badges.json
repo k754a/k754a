@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/k754a/Word-Guessing-Game/commit/a78a614a387169db35e68f690de9cf3f6667e5a3\"><strong>a</strong>78a614a387169db35e68f690de9cf3f6667e5a3</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/curtiskennedy/FtcRobotControllerJADE/commit/abf2b9fa4eabb323ba95e459df8efb2db7c6c598\"><strong>ab</strong>f2b9fa4eabb323ba95e459df8efb2db7c6c598</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/8c3122b48f2eda7afe84cf2f415e8b6689f45258\">8c3122b</a>\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/4260433d65c446e03704c65db15611bf942c5a29\">4260433</a>\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/ccbac265c9a0b3425f563710c55b83dd8648426b\">ccbac26</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 142 times)\n2. readme.md (used 128 times)\n3. the (used 70 times)\n4. and (used 67 times)\n5. to (used 47 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/8c3122b48f2eda7afe84cf2f415e8b6689f45258\">8c3122b</a>: FixinIt\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/4260433d65c446e03704c65db15611bf942c5a29\">4260433</a>: FixinIt\n- <a href=\"https://github.com/JacobZ19/SCRA-Junior/commit/ccbac265c9a0b3425f563710c55b83dd8648426b\">ccbac26</a>: FixinIt",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/K754a.github.io/commit/0c9f82fab69896fa6b447abfe5be5020c64eff3a\">0c9f82f</a>: fix x2\n- <a href=\"https://github.com/k754a/K754a.github.io/commit/6e490073c93c1cb2854142bd5e4c04e2ec33d120\">6e49007</a>: fix",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/curtiskennedy/FtcRobotControllerJADE/commit/bf2fee119073061a96d1aa02b07d312f67404306\">bf2fee1</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/k754a/commit/f94743d180221866702b4239e8a8f95d19caa14a\">f94743d</a>\n- <a href=\"https://github.com/k754a/k754a/commit/fe85ae822f90cf96f1100b84101ebb365377a9ad\">fe85ae8</a>\n- <a href=\"https://github.com/k754a/k754a/commit/97f5ab829cb9caaf0cfa589b38faa54281f5925f\">97f5ab8</a>\n- <a href=\"https://github.com/k754a/k754a/commit/c34af3df4047ead3d98f2fd18e0284f5dbcd27ed\">c34af3d</a>\n- <a href=\"https://github.com/k754a/k754a/commit/5ac3dfa67493c79c1b6a90991c6e94510d8daba8\">5ac3dfa</a>\n- <a href=\"https://github.com/k754a/k754a/commit/80613e30533f5e8197b81905de8959a7c2a2a382\">80613e3</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/ed3faac8c1fa26265d5a924c48215cec14bd5796\">ed3faac</a>\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/7eafc641e358078cc8d1cf0db30a7f68bb48ce22\">7eafc64</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/68aeacfcdfa053101549c2c963c6abf30bd8bf36\">68aeacf</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/946920f495002595f19902a0e34d38f83afe08e1\">946920f</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/b9e879d69663c3addf1c524626a5ad49bff87668\">b9e879d</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/b4d08056bf70383029f429fd43de9608feee0942\">b4d0805</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/92fcf0cea23def70dc63952bd4fb0508a2b3fd1d\">92fcf0c</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
