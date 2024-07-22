@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <strong><big>I create games and apps on Unity and C++</big></strong><br>
-  <strong><big>I live in Canada!</big></strong>
+  <h2>  <strong><big>I create games and apps on Unity and C++</big></strong><br>
+  <strong><big>I live in Canada!</big></strong></h2>
+
 </p>
 
 
