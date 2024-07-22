@@ -37,7 +37,7 @@ I create games and apps on Unity and C++
   </a>
  </p>
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 </p>
 
 </div>
