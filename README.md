@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
   <span style="font-size:2em;"><strong><big>Hi! Im A Unity Python and C++ Programmer!</big></strong></span>
 
-</p>
+</h1>
 
 <p align="center">
   <strong><big>I create games and apps on Unity and C++</big></strong><br>
