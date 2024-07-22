@@ -26,7 +26,7 @@
    <img alt="Blank" width="40px" style="margin: 0 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
   <img alt="Unity" width="40px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     <img alt="Blank" width="40px" style="margin: 0 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
-   <img alt="K754a-Edit" width="80px" height="80px" style="margin: 0 10px; vertical-align: 20px;" src="https://github.com/k754a/k754a/raw/main/pixil-frame-0 (86).png"/>
+   <img alt="K754a-Edit" width="80px" height="80px" style="margin: 0 10px; vertical-align: 0px;" src="https://github.com/k754a/k754a/raw/main/pixil-frame-0 (86).png"/>
 
 
 
