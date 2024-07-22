@@ -1,6 +1,4 @@
-<p align="center">
-  <strong><big>K754a</big></strong>
-</p>
+#K754a
 
 <p align="center">
   <strong><big>Unity Python and C++ Programmer!</big></strong>
