@@ -32,12 +32,7 @@ I create games and apps on Unity and C++
   <p align="center">
      <a href="https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true" alt="My GitHub Stats - Custom Colors" />
-  </a>
-  </p>
-
   <br><br>
-
- 
 
 </div>
 
