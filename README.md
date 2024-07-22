@@ -36,12 +36,15 @@ I create games and apps on Unity and C++
     <img src="https://github-readme-stats.vercel.app/api?username=k754a&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=EBA539&stroke_color=EB7026&hide_border=true" alt="My GitHub Stats - Custom Colors" />
   </a>
  </p>
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k754a&layout=compact&bg_color=00000000&text_color=ffffff&border_color=00000000&ring_color=FFA500" alt="Top Languages">
+  </a>
+</p>
+
 
 <br><br><br><br><br><br><br><br>
 
