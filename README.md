@@ -1,7 +1,6 @@
-#K754a
 
 <p align="center">
-  <strong><big>Unity Python and C++ Programmer!</big></strong>
+  <strong><big>Hi! Im A Unity Python and C++ Programmer!</big></strong>
 </p>
 
 <p align="center">
