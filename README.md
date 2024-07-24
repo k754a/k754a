@@ -66,10 +66,10 @@
 <hr style="border: 1px solid #EBEBEB; width: 50%; margin: 0 auto;"/>
   <br>
   
-[![k754a's GitHub stats](https://github-readme-stats.vercel.app/api?username=k754a&ring_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+ <p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=WarFiN123&hide_border=true&theme=high-contrast&title_color=ffb000&line=ffb000&radius=169&area=true&area_color=785ef0">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarFiN123&hide_border=true&theme=high-contrast&title_color=ffb000&line=ffb000&radius=169&area=true&area_color=785ef0" alt="My GitHub Stats - Custom Colors" />
+    </a>
 
   <br>
 ---
