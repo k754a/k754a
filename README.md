@@ -18,7 +18,7 @@
   <img alt="Blank" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
   <img alt="C++" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
   <img alt="Blank" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
-  <img alt="Java" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img alt="Java" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
   <img alt="Blank" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
   <img alt="Unity" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img alt="Blank" width="40px" style="margin: 0 10px; border: 2px solid white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
