@@ -66,7 +66,8 @@
 <hr style="border: 1px solid #EBEBEB; width: 50%; margin: 0 auto;"/>
   <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=k754a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&custom_title=Languages%20Used&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&theme=gradient&hide_border=true&border_radius=10&line_height=25&show_icons=true&hide=html,css&exclude_repo=repo1,repo2&count_private=true&custom_title=Languages%20Used&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=k754a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&custom_title=Languages%20Used&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&custom_css=%23fff7d8%2C%23ffcb69%2C%23f76c5e%2C%23ffad46)
+
 
   <br>
 ---
