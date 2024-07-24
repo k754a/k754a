@@ -4,8 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/k754a/K754a.github.io/commit/0c9f82fab69896fa6b447abfe5be5020c64eff3a">0c9f82f</a>: fix x2
-- <a href="https://github.com/k754a/K754a.github.io/commit/6e490073c93c1cb2854142bd5e4c04e2ec33d120">6e49007</a>: fix
+- <a href="https://github.com/k754a/C-Custom-Code-Editor/commit/6801126690ae80ad095cba6d5ca3de395d1bef83">6801126</a>: Fixed memory leaks and overusage
+
+Used a dynamic buffer
+- <a href="https://github.com/k754a/C-Custom-Code-Editor/commit/f118a6c18b8a55d3354c5487631b21412f0f7b4c">f118a6c</a>: Fixed buffer, large memory leak
+
+Was unable to fix a large memory leak :(
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

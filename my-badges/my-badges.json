@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 143 times)\n2. readme.md (used 129 times)\n3. the (used 70 times)\n4. and (used 67 times)\n5. to (used 47 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 145 times)\n2. readme.md (used 131 times)\n3. the (used 72 times)\n4. and (used 72 times)\n5. to (used 53 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/K754a.github.io/commit/0c9f82fab69896fa6b447abfe5be5020c64eff3a\">0c9f82f</a>: fix x2\n- <a href=\"https://github.com/k754a/K754a.github.io/commit/6e490073c93c1cb2854142bd5e4c04e2ec33d120\">6e49007</a>: fix",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/6801126690ae80ad095cba6d5ca3de395d1bef83\">6801126</a>: Fixed memory leaks and overusage\n\nUsed a dynamic buffer\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/f118a6c18b8a55d3354c5487631b21412f0f7b4c\">f118a6c</a>: Fixed buffer, large memory leak\n\nWas unable to fix a large memory leak :(",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/ed3faac8c1fa26265d5a924c48215cec14bd5796\">ed3faac</a>\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/7eafc641e358078cc8d1cf0db30a7f68bb48ce22\">7eafc64</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/68aeacfcdfa053101549c2c963c6abf30bd8bf36\">68aeacf</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/946920f495002595f19902a0e34d38f83afe08e1\">946920f</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/b9e879d69663c3addf1c524626a5ad49bff87668\">b9e879d</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/b4d08056bf70383029f429fd43de9608feee0942\">b4d0805</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/ec15d0c1350c3d18214195fe2289df54131c22c3\">ec15d0c</a>\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/dbbd3d61acc7695bc77e108f00e1cb274b9889e8\">dbbd3d6</a>\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/ed3faac8c1fa26265d5a924c48215cec14bd5796\">ed3faac</a>\n- <a href=\"https://github.com/k754a/C-Custom-Code-Editor/commit/7eafc641e358078cc8d1cf0db30a7f68bb48ce22\">7eafc64</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/68aeacfcdfa053101549c2c963c6abf30bd8bf36\">68aeacf</a>\n- <a href=\"https://github.com/k754a/Memory-lane/commit/946920f495002595f19902a0e34d38f83afe08e1\">946920f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
