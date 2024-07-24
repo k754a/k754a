@@ -4,9 +4,12 @@
 
 <h3 align="center">
   <strong><big>I create games and apps on Unity and C++</big></strong><br>
-  <strong><big>I live in Canada!</big></strong>
-</h3>
 
+</h3>
+<h4 align="center">
+
+  <strong><big>I live in Canada!</big></strong>
+</h4>
 <br>
 
 <p align="center">
