@@ -14,14 +14,14 @@
   <strong><big>And I live in Canada!</big></strong>
 </h4>
 
-<br>
+
 
 <!-- Icons and images -->
 <p align="center">
   <!-- Your icons here -->
 </p>
 
-<br><br>
+<br>
 
 ---
 
