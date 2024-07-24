@@ -67,10 +67,11 @@
   <br>
   
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=K754a&hide_border=true&bg_color=ffffff&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=785ef0&radius=169">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=K754a&hide_border=true&bg_color=ffffff&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=785ef0&radius=169" alt="My GitHub Stats - Custom Colors" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=K754a&hide_border=true&bg_color=00000000&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=785ef0&radius=169">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=K754a&hide_border=true&bg_color=00000000&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=785ef0&radius=169" alt="My GitHub Stats - Custom Colors" />
     </a>
 </p>
+
 
 
   <br>
