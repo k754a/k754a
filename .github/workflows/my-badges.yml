@@ -1,18 +1,26 @@
-name: my-badges
+name: Update YouTube Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
-
-permissions:
-  contents: write
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  my-badges:
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch YouTube Subscribers
+        run: |
+          curl "https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=${{ secrets.YOUTUBE_CHANNEL_ID }}&key=${{ secrets.YOUTUBE_API_KEY }}" > youtube-subscribers.txt
+
+      - name: Commit updated stats
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add youtube-subscribers.txt
+          git commit -m "Update YouTube subscriber count"
+          git push
