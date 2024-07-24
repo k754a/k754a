@@ -1,5 +1,5 @@
 <!-- Include the Google Fonts link -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@1;700&display=swap" rel="stylesheet">
 
 <!-- Apply the font to specific text sections -->
 <h1 align="center" style="font-family: 'Roboto', sans-serif;">
