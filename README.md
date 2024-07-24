@@ -10,8 +10,8 @@
   <strong><big>I create games and apps on Unity and C++</big></strong><br>
 </h3>
 
-<h4 align="center" style="font-family: 'Roboto', sans-serif;">
-  <strong><big>I live in Canada!</big></strong>
+<h3 align="center" style="font-family: 'Roboto', sans-serif;">
+  <strong><big>And I live in Canada!</big></strong>
 </h4>
 
 <br>
