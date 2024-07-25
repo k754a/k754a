@@ -75,7 +75,14 @@
 
 </p>
 
-![C-Custom-Code-Editor](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC&symbol_color=FFA500)
+<p align="center">
+   <a href="https://github.com/k754a/C-Custom-Code-Editor">
+           <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=00000000&symbol_color=FFA500" alt="C-Custom-Code-Editor">
+</a>
+ </p>
+
+
+
 
 
   <br>
