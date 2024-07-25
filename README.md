@@ -75,7 +75,8 @@
 
 </p>
 
-![C-Custom-Code-Editor](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF)
+![C-Custom-Code-Editor](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC&symbol_color=FFA500)
+
 
   <br>
 <hr style="border: 1px solid #EBEBEB; width: 50%; margin: 0 auto;"/>
