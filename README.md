@@ -155,7 +155,7 @@
 </p>
 
 
-<span align="center" style="display: flex; justify-content: center;">
+<span align="center">
   <a href="https://github.com/k754a/C-Custom-Code-Editor" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC80&symbol_color=FFA500" alt="C-Custom-Code-Editor" style="height: 150px; width: auto;"/>
   </a>
