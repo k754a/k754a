@@ -76,14 +76,15 @@
 </p>
 
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/k754a/C-Custom-Code-Editor" style="display: inline-block;">
-        <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC80&symbol_color=FFA500" alt="C-Custom-Code-Editor">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://github.com/k754a/C-Custom-Code-Editor" style="display: inline-block; width: 49%;">
+        <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=C-Custom-Code-Editor&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC80&symbol_color=FFA500" alt="C-Custom-Code-Editor" style="width: 100%;">
     </a>
-    <a href="https://github.com/k754a/CyberEaglesJade" style="display: inline-block;">
-        <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=CyberEaglesJade&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC80&symbol_color=FFA500" alt="CyberEaglesJade">
+    <a href="https://github.com/k754a/CyberEaglesJade" style="display: inline-block; width: 49%;">
+        <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=k754a&repo=CyberEaglesJade&theme=dark&bg_color=00000000&text_color=FFFFFF&border_color=CCCCCC80&symbol_color=FFA500" alt="CyberEaglesJade" style="width: 100%;">
     </a>
 </div>
+
 
     
  </p>
