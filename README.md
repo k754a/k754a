@@ -52,7 +52,7 @@
 
   <hr style="border: 1px solid #EBEBEB; width: 50%; margin: 0 auto;"/>
 
-  <br>
+
 
  
 </div>
