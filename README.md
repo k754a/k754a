@@ -23,7 +23,7 @@
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
   <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
-  <img alt="C++" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+  <img alt="C++" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZrmsGwJYfYs_2ltjr0288zORq27l0AipBQwkbdtvMQ&s=10" />
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
   <img alt="JavaScript" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" />
